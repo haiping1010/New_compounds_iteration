@@ -1,0 +1,41 @@
+# set up two variables for Phi and Psi dihedral angles
+S_1A: GROUP NDX_FILE=tst.ndx NDX_GROUP=Protein
+S_1B: GROUP NDX_FILE=tst.ndx NDX_GROUP=UNL
+
+
+#S_1A: GROUP NDX_FILE=tst.ndx NDX_GROUP=r_1-8
+#S_1B: GROUP NDX_FILE=tst.ndx NDX_GROUP=r_38-45
+#S_2A: GROUP NDX_FILE=tst.ndx NDX_GROUP=r_9-19
+#S_2B: GROUP NDX_FILE=tst.ndx NDX_GROUP=r_24-34
+
+#S_3A: GROUP NDX_FILE=tst.ndx NDX_GROUP=r_32-39
+#S_3B: GROUP NDX_FILE=tst.ndx NDX_GROUP=r_49-51_r_53-57
+
+# 
+# Activate metadynamics in phi and psi
+# depositing a Gaussian every 500 time steps,
+# with height equal to 3 kJoule/mol,
+# and width 3 for both CVs.
+# The bias potential will be stored on a grid
+# with bin size equal to 0.3 for both CVs.
+# The boundaries of the grid are 0 and 300 or 400, for both CVs.
+#
+c: COORDINATION GROUPA=S_1A GROUPB=S_1B R_0=0.3 NN=8 MM=12 NLIST NL_CUTOFF=0.5 NL_STRIDE=100
+#d: COORDINATION GROUPA=S_2A GROUPB=S_2B R_0=0.25 NN=8 MM=12 NLIST NL_CUTOFF=0.5 NL_STRIDE=100
+
+
+METAD ...
+LABEL=metad
+ARG=c
+PACE=500
+HEIGHT=0.3
+SIGMA=5
+FILE=HILLS
+GRID_MIN=0
+GRID_MAX=1000
+GRID_SPACING=3
+... METAD
+
+# monitor the two variables and the metadynamics bias potential
+PRINT STRIDE=100 ARG=c,metad.bias FILE=COLVAR
+

@@ -1,0 +1,6 @@
+
+size_x = 35
+size_y = 35
+size_z = 35
+
+num_modes = 20

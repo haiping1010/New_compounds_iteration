@@ -1,0 +1,44 @@
+Activation B7-1 antigen (CD80) 
+ALK tyrosine kinase receptor (ALK)      OK     5FTO
+Apoptosis regulator Bcl-2 (BCL-2)     OK    4IEH
+Arachidonate 5-lipoxygenase (5-LOX) 
+BDNF/NT-3 growth factors receptor (TrkB)     OK    4AT5
+Cyclin-dependent kinase 4 (CDK4)              
+Cyclin-dependent kinase 6 (CDK6)   OK   4AUA
+DNA topoisomerase II (TOP2) 
+DNA topoisomerase I (TOP1) 
+Dopamine D2 receptor (D2R) 
+Epidermal growth factor receptor (EGFR)   OK   3LZB
+Erbb2 tyrosine kinase receptor (HER2)      OK    3PP0
+Erbb4 tyrosine kinase receptor (Erbb-4)       OK    2R4B
+Fibroblast growth factor receptor 1 (FGFR1)      OK     5EW8
+Fms-like tyrosine kinase 3 (FLT-3) 
+Hemoglobin (HB) 
+HGF/Met signaling pathway (HGF/Met pathway) 
+Human Deoxyribonucleic acid (hDNA) 
+Indoleamine 2,3-dioxygenase 1 (IDO1) 
+Insulin-like growth factor I receptor (IGF1R) 
+Interleukin-2 (IL2) 
+Interleukin 2 receptor (IL2R) 
+Low-density lipoprotein receptor (LDL-R) 
+MAPK/ERK kinase kinase (MAP3K) 
+NT-3 growth factor receptor (TrkC) 
+Opioid receptor mu (MOP) 
+Plasmodium Dihydroorotate dehydrogenase (Malaria DHOdehase) 
+Platelet-derived growth factor receptor alpha (PDGFRA) 
+Platelet-derived growth factor receptor beta (PDGFRB) 
+Platelet-derived growth factor receptor (PDGFR) 
+Programmed cell death protein 1 (PD-1) 
+Proto-oncogene c-Met (MET)    OK  3lq8
+Proto-oncogene c-Ros (ROS1) 
+Serine/threonine-protein kinase mTOR (mTOR) 
+Somatostatin receptor type 2 (SSTR2) 
+Sphingosine-1-phosphate receptor 1 (S1PR1) 
+Tropomyosin-related kinase A (TrkA) 
+Tubulin beta (TUBB) 
+Tyrosine-protein kinase Kit (KIT)    OK 	3g0e
+Tyrosine-protein kinase (PTK) 
+Tyrosine-protein kinase UFO (AXL) 
+Vascular endothelial growth factor A (VEGFA) 
+Vascular endothelial growth factor receptor 2 (KDR) 
+Vascular endothelial growth factor receptor (VEGFR)

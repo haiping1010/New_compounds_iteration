@@ -1,0 +1,52 @@
+title       = Umbrella pulling simulation 
+;define      = -DPOSRES
+; Run parameters
+integrator  = md
+dt          = 0.002
+tinit       = 0
+nsteps      = 10000000   ; 20ns
+nstcomm     = 100
+cutoff-scheme = verlet
+; Output parameters
+;nstxout     = 5000      ; every 10 ps
+;nstvout     = 5000 
+;nstfout     = 2000
+nstxtcout   = 2000       ; every 1 ps
+nstenergy   = 2000
+; Bond parameters
+constraint_algorithm    = lincs
+constraints             = h-bonds
+continuation            = yes       ; continuing from NPT 
+; Single-range cutoff scheme
+nstlist     = 5
+ns_type     = grid 
+rlist       = 1.4
+rcoulomb    = 1.4
+rvdw        = 1.4
+; PME electrostatics parameters
+coulombtype     = PME
+fourierspacing  = 0.12
+fourier_nx      = 0
+fourier_ny      = 0
+fourier_nz      = 0
+pme_order       = 4
+ewald_rtol      = 1e-5
+optimize_fft    = yes
+; Berendsen temperature coupling is on in two groups
+Tcoupl      = V-rescale
+tc_grps     = System
+tau_t       = 0.1 
+ref_t       = 308
+; Pressure coupling is on
+Pcoupl          = Parrinello-Rahman 
+pcoupltype      = isotropic
+tau_p           = 1.0       
+compressibility = 4.5e-5
+ref_p           = 1.0
+refcoord_scaling = com
+; Generate velocities is off
+gen_vel     = no 
+; Periodic boundary conditions are on in all directions
+pbc     = xyz
+; Long-range dispersion correction
+DispCorr    = EnerPres

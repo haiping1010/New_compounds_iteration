@@ -1,0 +1,1 @@
+Warning. No element entries in file. Attempting to extract from the atom names. Not always reliable... model1_poc.pdb 53.5011 55.9614 57.1168

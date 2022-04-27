@@ -1,0 +1,7 @@
+Amenamevir_lig   0
+Amoxicillin_lig   -1
+Ampicillin_lig   -1
+Azithromycin_lig   2
+Pralatrexate_lig   -2
+Romidepsin_lig   0
+Teriflunomide_lig   -1

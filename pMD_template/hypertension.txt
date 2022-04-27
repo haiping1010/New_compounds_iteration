@@ -1,0 +1,368 @@
+Disease Entry 	Hypertension
+Target 	Adrenergic receptor beta-1 (ADRB1) 	Target Info 	Successful
+	Oxprenolol 	Drug Info 	Approved
+	Metoprolol 	Drug Info 	Approved
+Target 	Adrenergic receptor (ADR) 	Target Info 	Successful
+	Celiprolol hcl 	Drug Info 	Approved
+Disease Entry 	Hypertension
+Target 	Carbonic anhydrase (CA) 	Target Info 	Successful
+	Quinethazone 	Drug Info 	Approved
+Disease Entry 	Hypertension
+Target 	Voltage-gated calcium channel alpha Cav3.1 (CACNA1G) 	Target Info 	Successful
+	Verapamil 	Drug Info 	Approved
+Target 	Adrenergic receptor beta-1 (ADRB1) 	Target Info 	Successful
+	Pindolol 	Drug Info 	Approved
+Target 	Voltage-gated calcium channel alpha-2/delta-1 (CACNA2D1) 	Target Info 	Successful
+	Amlodipine 	Drug Info 	Approved
+Target 	Nitric-oxide synthase endothelial (NOS3) 	Target Info 	Clinical Trial
+	L-NAME 	Drug Info 	Phase 2
+Disease Entry 	Hypertension
+Target 	Adrenergic receptor beta-1 (ADRB1) 	Target Info 	Successful
+	Penbutolol 	Drug Info 	Approved
+Target 	Dopamine D2 receptor (D2R) 	Target Info 	Successful
+	Bevantolol 	Drug Info 	Approved
+Target 	Adrenergic receptor beta-1 (ADRB1) 	Target Info 	Successful
+	Acebutolol 	Drug Info 	Approved
+Disease Entry 	Hypertension
+Target 	Monoamine oxidase type B (MAO-B) 	Target Info 	Successful
+	Pargyline 	Drug Info 	Approved
+Target 	Monoamine oxidase (MAO) 	Target Info 	Successful
+	Pargyline 	Drug Info 	Approved
+Disease Entry 	Hypertension
+ICD9 	ICD-9: 401, 782.3
+Target 	Solute carrier family 12 member 1 (SLC12A1) 	Target Info 	Successful
+	Trichlormethiazide 	Drug Info 	Approved
+Disease Entry 	Hypertension
+ICD9 	ICD-9: 401
+Target 	Angiotensin II receptor type-1 (AGTR1) 	Target Info 	Successful
+	Eprosartan 	Drug Info 	Approved
+	Losartan 	Drug Info 	Approved
+	Candesartan 	Drug Info 	Approved
+	Valsartan 	Drug Info 	Approved
+	Irbesartan 	Drug Info 	Approved
+	Telmisartan 	Drug Info 	Approved
+	Tasosartan 	Drug Info 	Approved
+	SARALASIN 	Drug Info 	Approved
+	Micardis telmisartan 	Drug Info 	Approved
+	Saprisartan 	Drug Info 	Approved
+	Azilsartan 	Drug Info 	Approved
+	Saralasin Acetate 	Drug Info 	Approved
+	Forasartan 	Drug Info 	Approved
+	TAK-491 	Drug Info 	Phase 3
+	Pratosartan 	Drug Info 	Phase 3
+	sparsentan 	Drug Info 	Phase 2/3
+	YM-358 	Drug Info 	Phase 2
+	CL-329167 	Drug Info 	Phase 2
+	KRH-594 	Drug Info 	Discontinued in Phase 2
+	MILFASARTAN 	Drug Info 	Discontinued in Phase 2
+	RIPISARTAN 	Drug Info 	Discontinued in Phase 2
+	TAK-591 	Drug Info 	Discontinued in Phase 1
+	UR-7198 	Drug Info 	Discontinued in Phase 1
+	L-158809 	Drug Info 	Terminated
+	A-81988 	Drug Info 	Terminated
+	UP-275-22 	Drug Info 	Terminated
+	XR-510 	Drug Info 	Terminated
+	CR-3834 	Drug Info 	Terminated
+	L-159689 	Drug Info 	Terminated
+Target 	Adrenergic receptor Alpha-1 (ADRA1) 	Target Info 	Successful
+	Urapidil 	Drug Info 	Approved
+	Labetalol 	Drug Info 	Approved
+Target 	5-HT 1A receptor (HTR1A) 	Target Info 	Successful
+	Urapidil 	Drug Info 	Approved
+	TERTATOLOL 	Drug Info 	Approved
+	A-74283 	Drug Info 	Terminated
+Target 	Solute carrier family 12 member 1 (SLC12A1) 	Target Info 	Successful
+	Aldosterone 	Drug Info 	Approved
+Target 	Mineralocorticoid receptor (MR) 	Target Info 	Successful
+	Aldosterone 	Drug Info 	Approved
+	KBP-5074 	Drug Info 	Phase 1/2
+Target 	Adrenergic receptor Alpha-2 (ADRA2) 	Target Info 	Successful
+	Clonidine 	Drug Info 	Approved
+	Methyldopate Hydrochloride 	Drug Info 	Approved
+	ADX415 	Drug Info 	Terminated
+Target 	Membrane copper amine oxidase (AOC3) 	Target Info 	Successful
+	Clonidine 	Drug Info 	Approved
+	Hydralazine 	Drug Info 	Approved
+Target 	Calcium channel unspecific (CaC) 	Target Info 	Successful
+	Isradipine 	Drug Info 	Approved
+	Felodipine 	Drug Info 	Approved
+	Nisoldipine 	Drug Info 	Approved
+	Clevidipine butyrate 	Drug Info 	Approved
+	Nexopamil 	Drug Info 	Phase 2
+	YM-16151-4 	Drug Info 	Phase 1
+	Semotiadil 	Drug Info 	Discontinued in Preregistration
+	AE-0047 	Drug Info 	Discontinued in Preregistration
+	Palonidipine hydrochloride 	Drug Info 	Discontinued in Preregistration
+	S-12968 	Drug Info 	Discontinued in Phase 3
+	Anipamil 	Drug Info 	Discontinued in Phase 3
+	CD-349 	Drug Info 	Discontinued in Phase 2
+	NP-252 	Drug Info 	Discontinued in Phase 1
+	SM-6586 	Drug Info 	Discontinued in Phase 1
+	AHR-16303B 	Drug Info 	Terminated
+	Z-6568 	Drug Info 	Terminated
+	DHP-218 	Drug Info 	Terminated
+	RS-93522 	Drug Info 	Terminated
+	ZM-224832 	Drug Info 	Terminated
+	AHR-16462B 	Drug Info 	Terminated
+	SQ-33351 	Drug Info 	Terminated
+	SR-33805A 	Drug Info 	Investigative
+	TELUDIPINE HYDROCHLORIDE 	Drug Info 	Investigative
+Target 	Adrenergic receptor beta-1 (ADRB1) 	Target Info 	Successful
+	Nebivolol 	Drug Info 	Approved
+	Bisoprolol 	Drug Info 	Approved
+	Betaxolol 	Drug Info 	Approved
+	Atenolol 	Drug Info 	Approved
+	BUCINDOLOL 	Drug Info 	Phase 2/3
+	YM-16151-4 	Drug Info 	Phase 1
+	Alprenolol 	Drug Info 	Withdrawn from market
+Target 	Potassium channel unspecific (KC) 	Target Info 	Successful
+	Minoxidil 	Drug Info 	Approved
+	Diazoxide 	Drug Info 	Approved
+	RP-49356 	Drug Info 	Phase 2
+	Iptakalim hydrochloride 	Drug Info 	Phase 1
+	CLP-1004 	Drug Info 	Phase 1
+	P-1075 	Drug Info 	Discontinued in Phase 2
+	KR-30450 	Drug Info 	Discontinued in Phase 1
+	Ro-31-6930 	Drug Info 	Discontinued in Phase 1
+	Symakalim 	Drug Info 	Discontinued in Phase 1
+	Ki-1769 	Drug Info 	Terminated
+	NS-004 	Drug Info 	Terminated
+	YM-099 	Drug Info 	Terminated
+	TCV-295 	Drug Info 	Terminated
+Target 	Angiotensin-converting enzyme (ACE) 	Target Info 	Successful
+	Fosinopril 	Drug Info 	Approved
+	Hydrochlorothiazide 	Drug Info 	Approved
+	Benazepril 	Drug Info 	Approved
+	Enalaprilat 	Drug Info 	Approved
+	Trandolapril 	Drug Info 	Approved
+	Quinapril 	Drug Info 	Approved
+	Captopril 	Drug Info 	Approved
+	Rescinnamine 	Drug Info 	Approved
+	Deserpidine 	Drug Info 	Approved
+	Lisinopril 	Drug Info 	Approved
+	Spirapril 	Drug Info 	Approved
+	Perindopril 	Drug Info 	Approved
+	Enalapril 	Drug Info 	Approved
+	Moexipril 	Drug Info 	Approved
+	Idrapril 	Drug Info 	Discontinued in Phase 2
+	UTIBAPRIL 	Drug Info 	Discontinued in Phase 2
+	Zabiciprilat 	Drug Info 	Discontinued in Phase 2
+	Gallopamil 	Drug Info 	Phase 2
+	NO-antihypertensives 	Drug Info 	Terminated
+	CGS-30440 	Drug Info 	Terminated
+	GW-660511 	Drug Info 	Terminated
+	Omapatrilat 	Drug Info 	Terminated
+	DU-1777 	Drug Info 	Terminated
+	RJM-0035-K002 	Drug Info 	Investigative
+	RB-105 	Drug Info 	Investigative
+Target 	Adrenergic receptor (ADR) 	Target Info 	Successful
+	Guanadrel Sulfate 	Drug Info 	Approved
+	Terbutyline 	Drug Info 	Approved
+Target 	Dopamine D1 receptor (D1R) 	Target Info 	Successful
+	Fenoldopam 	Drug Info 	Approved
+	ZELANDOPAM HYDROCHLORIDE 	Drug Info 	Discontinued in Phase 2
+	A-68930 	Drug Info 	Terminated
+Target 	Vasopressin V1a receptor (V1AR) 	Target Info 	Successful
+	Terlipressin 	Drug Info 	Approved
+Target 	Voltage-gated calcium channel alpha-2/delta-1 (CACNA2D1) 	Target Info 	Successful
+	Diltiazem 	Drug Info 	Approved
+	Nitrendipine 	Drug Info 	Approved
+	Lercanidipine 	Drug Info 	Approved
+Target 	Adrenergic neuron (AD neuro) 	Target Info 	Successful
+	Debrisoquin 	Drug Info 	Approved
+Target 	Dopamine D2 receptor (D2R) 	Target Info 	Successful
+	Docarpamine 	Drug Info 	Approved
+	Methyldopa 	Drug Info 	Approved
+	Carmoxirole 	Drug Info 	Phase 1
+	FOSOPAMINE 	Drug Info 	Discontinued in Phase 2
+	A-68930 	Drug Info 	Terminated
+Target 	Angiotensin II receptor type-2 (AGTR2) 	Target Info 	Successful
+	SARALASIN 	Drug Info 	Approved
+	MP-157 	Drug Info 	Phase 1
+	Hypertension NCE 	Drug Info 	Phase 1
+	Fonsartan 	Drug Info 	Discontinued in Phase 2
+	TAK-591 	Drug Info 	Discontinued in Phase 1
+	L-158809 	Drug Info 	Terminated
+	L-159689 	Drug Info 	Terminated
+Target 	Synaptic vesicle amine transporter (SLC18A2) 	Target Info 	Successful
+	Reserpine 	Drug Info 	Approved
+	Alseroxylon 	Drug Info 	Approved
+Target 	Voltage-gated potassium channel Kv7.1 (KCNQ1) 	Target Info 	Successful
+	Indapamide 	Drug Info 	Approved
+Target 	Adrenergic receptor beta-3 (ADRB3) 	Target Info 	Successful
+	Bopindolol 	Drug Info 	Approved
+	Amosulalol 	Drug Info 	Approved
+	YM-430 	Drug Info 	Phase 2
+	Tienoxolol 	Drug Info 	Discontinued in Phase 2
+	OBERADILOL MONOETHYL MALEATE 	Drug Info 	Discontinued in Phase 2
+	PAFENOLOL 	Drug Info 	Discontinued in Phase 1
+Target 	Phosphodiesterase 5A (PDE5A) 	Target Info 	Successful
+	Dipyridamole 	Drug Info 	Approved
+Target 	Muscarinic acetylcholine receptor M5 (CHRM5) 	Target Info 	Successful
+	Cryptenamine Acetates 	Drug Info 	Approved
+Target 	Adrenergic receptor alpha-2C (ADRA2C) 	Target Info 	Successful
+	Amosulalol 	Drug Info 	Approved
+	Rilmenidine 	Drug Info 	Approved
+	INDORAMIN 	Drug Info 	Withdrawn from market
+	GYKI-12743 	Drug Info 	Discontinued in Phase 1
+Target 	Angiotensinogenase renin (REN) 	Target Info 	Successful
+	Remikiren 	Drug Info 	Approved
+	Aliskiren 	Drug Info 	Approved
+	CP-80794 	Drug Info 	Phase 2
+	SPP-600 	Drug Info 	Phase 2
+	VTP-27999 	Drug Info 	Phase 1
+	ZANKIREN 	Drug Info 	Discontinued in Phase 2
+	FK-906 	Drug Info 	Discontinued in Phase 2
+	RS-8891 	Drug Info 	Discontinued in Phase 1
+	SPP-1148 	Drug Info 	Discontinued in Phase 1
+	SPP-676 	Drug Info 	Discontinued in Phase 1
+	KRI-1314 	Drug Info 	Terminated
+	SQ-33800 	Drug Info 	Terminated
+	A-74273 	Drug Info 	Terminated
+	BILA-2157BS 	Drug Info 	Terminated
+	SC-56525 	Drug Info 	Terminated
+	ES-1005 	Drug Info 	Terminated
+	Ciprokiren 	Drug Info 	Terminated
+	JTP-2724 	Drug Info 	Terminated
+	JTP-4761 	Drug Info 	Terminated
+	ES-6864 	Drug Info 	Investigative
+	Renin inhibitors 	Drug Info 	Investigative
+	SPP-800 	Drug Info 	Investigative
+Target 	Adrenergic receptor alpha-1B (ADRA1B) 	Target Info 	Successful
+	Methoxamine 	Drug Info 	Approved
+Target 	Voltage-gated L-type calcium channel (L-CaC) 	Target Info 	Successful
+	Clevidipine butyrate 	Drug Info 	Approved
+	Levamlodipine 	Drug Info 	Phase 4
+	Gallopamil 	Drug Info 	Phase 2
+Target 	5-HT 2 receptor (5HT2R) 	Target Info 	Successful
+	Ketanserin 	Drug Info 	Approved
+	Nexopamil 	Drug Info 	Phase 2
+	SUN-9221 	Drug Info 	Discontinued in Phase 1
+	AHR-16303B 	Drug Info 	Terminated
+Target 	Soluble guanylate cyclase (GCS) 	Target Info 	Successful
+	Sodium nitroprusside 	Drug Info 	Approved
+Target 	Adrenergic receptor alpha-1A (ADRA1A) 	Target Info 	Successful
+	NAFTOPIDIL 	Drug Info 	Approved
+Target 	Adrenergic receptor alpha-1D (ADRA1D) 	Target Info 	Successful
+	Doxazosin 	Drug Info 	Approved
+	DL-017 	Drug Info 	Phase 1
+	INDORAMIN 	Drug Info 	Withdrawn from market
+	FCE-22716 	Drug Info 	Discontinued in Phase 2
+	SUN-9221 	Drug Info 	Discontinued in Phase 1
+	CR-2991 	Drug Info 	Terminated
+Target 	Inositol 1,4,5-trisphosphate receptor (ITPR) 	Target Info 	Successful
+	Nitroprusside 	Drug Info 	Approved
+Target 	Neutral endopeptidase (MME) 	Target Info 	Clinical Trial
+	Candoxatril 	Drug Info 	Phase 3
+	Sch-34826 	Drug Info 	Discontinued in Phase 2
+	CGS-25462 	Drug Info 	Discontinued in Phase 2
+	Gallopamil 	Drug Info 	Phase 2
+	CGS-30440 	Drug Info 	Terminated
+	GW-660511 	Drug Info 	Terminated
+	SQ-28603 	Drug Info 	Terminated
+	Omapatrilat 	Drug Info 	Terminated
+	RB-105 	Drug Info 	Investigative
+Target 	Adenosine A2a receptor (ADORA2A) 	Target Info 	Successful
+	Binodenoson 	Drug Info 	Phase 3
+Target 	P-selectin (SELP) 	Target Info 	Clinical Trial
+	CY-1503 	Drug Info 	Phase 2/3
+Target 	E-selectin (SELE) 	Target Info 	Clinical Trial
+	CY-1503 	Drug Info 	Phase 2/3
+Target 	Endothelin A receptor (EDNRA) 	Target Info 	Successful
+	sparsentan 	Drug Info 	Phase 2/3
+	FR139317 	Drug Info 	Phase 2
+	PD-145065 	Drug Info 	Phase 2
+	50-235 	Drug Info 	Terminated
+	PD-155080 	Drug Info 	Terminated
+	BQ-518 	Drug Info 	Terminated
+	BMS-182874 	Drug Info 	Terminated
+Target 	Substance-P receptor (TACR1) 	Target Info 	Successful
+	FR139317 	Drug Info 	Phase 2
+Target 	Soluble epoxide hydrolase (EPHX2) 	Target Info 	Clinical Trial
+	AR9281 	Drug Info 	Phase 2
+	EXRD-4605 	Drug Info 	Investigative
+	SEH inhibitors 	Drug Info 	Investigative
+Target 	Adrenergic receptor beta-2 (ADRB2) 	Target Info 	Successful
+	BUCINDOLOL 	Drug Info 	Phase 2/3
+Target 	Adenosine A2b receptor (ADORA2B) 	Target Info 	Successful
+	YT-146 	Drug Info 	Phase 2
+Target 	Endothelin receptor (EDNR) 	Target Info 	Clinical Trial
+	Aprocitentan 	Drug Info 	Phase 2
+	Ro-46-2005 	Drug Info 	Terminated
+Target 	Endothelin B receptor (EDNRB) 	Target Info 	Successful
+	PD-145065 	Drug Info 	Phase 2
+	BQ788 	Drug Info 	Phase 3
+Target 	Angiotensin II receptor (AGTR) 	Target Info 	Clinical Trial
+	CYT-006-AngQb 	Drug Info 	Phase 2
+	DA-727 	Drug Info 	Phase 1
+	E-4177 	Drug Info 	Discontinued in Phase 2
+	ICI-D-8731 	Drug Info 	Discontinued in Phase 2
+	Elisartan potassium 	Drug Info 	Discontinued in Phase 2
+	FK-739 	Drug Info 	Discontinued in Phase 2
+	BIBR-363 	Drug Info 	Discontinued in Phase 2
+	DuP-532 	Drug Info 	Discontinued in Phase 1
+	ICI-D-6888 	Drug Info 	Discontinued in Phase 1
+	CGP-48369 	Drug Info 	Discontinued in Phase 1
+	A-81988 	Drug Info 	Terminated
+	CI-996 	Drug Info 	Terminated
+	RWJ-46458 	Drug Info 	Terminated
+	ME-3221 	Drug Info 	Terminated
+	A-81282 	Drug Info 	Terminated
+	SC-51316 	Drug Info 	Terminated
+	BIBS-222 	Drug Info 	Terminated
+	SL-910102 	Drug Info 	Terminated
+	DMP-811 	Drug Info 	Terminated
+	EXP-6803 	Drug Info 	Terminated
+	BIBS-39 	Drug Info 	Terminated
+	ZD-7155 	Drug Info 	Terminated
+	KW-3433 	Drug Info 	Terminated
+	WAY-126227 	Drug Info 	Terminated
+	BMS-180560 	Drug Info 	Terminated
+	FR-149581 	Drug Info 	Terminated
+	L-163017 	Drug Info 	Terminated
+	A-82186 	Drug Info 	Investigative
+Target 	Glutamyl aminopeptidase (ENPEP) 	Target Info 	Clinical Trial
+	QGC-001 	Drug Info 	Phase 2
+Target 	Aspartyl aminopeptidase (DNPEP) 	Target Info 	Clinical Trial
+	QGC-001 	Drug Info 	Phase 2
+Target 	Sodium/potassium-transporting ATPase (SPT ATPase) 	Target Info 	Successful
+	Rostafuroxin 	Drug Info 	Phase 2
+Target 	Sphingomyelin synthase (SMS) 	Target Info 	Clinical Trial
+	2-hydroxyoleic acid 	Drug Info 	Phase 1/2
+Target 	Helodermin-preferring VIP receptor (VIPR2) 	Target Info 	Clinical Trial
+	PB1046 	Drug Info 	Phase 1
+Target 	P2X purinoceptor 3 (P2RX3) 	Target Info 	Clinical Trial
+	AF-130 	Drug Info 	Phase 1
+Target 	Adrenergic receptor alpha-2B (ADRA2B) 	Target Info 	Successful
+	INDORAMIN 	Drug Info 	Withdrawn from market
+Target 	Prostacyclin receptor (PTGIR) 	Target Info 	Successful
+	OP-2507 	Drug Info 	Discontinued in Phase 2
+Target 	Adenosine A1 receptor (ADORA1) 	Target Info 	Successful
+	FK-838 	Drug Info 	Discontinued in Phase 2
+	FK-352 	Drug Info 	Discontinued in Phase 2
+	SDZ-WAG-994 	Drug Info 	Discontinued in Phase 1
+Target 	5-HT 2A receptor (HTR2A) 	Target Info 	Successful
+	FCE-22716 	Drug Info 	Discontinued in Phase 2
+Target 	Sarcoplasmic/endoplasmic reticulum calcium ATPase 2 (ATP2A2) 	Target Info 	Clinical Trial
+	Gallopamil 	Drug Info 	Phase 2
+Target 	Amylin receptor (IAPPR) 	Target Info 	Discontinued
+	AC-625 	Drug Info 	Discontinued in Phase 1
+	AC-253 	Drug Info 	Discontinued in Phase 1
+Target 	Guanylate cyclase soluble beta-1 (GUCY1B1) 	Target Info 	Clinical Trial
+	RIG-200 	Drug Info 	Discontinued in Phase 1
+Target 	Neuropeptide Y receptor type 1 (NPY1R) 	Target Info 	Clinical Trial
+	BIBP 3226 	Drug Info 	Terminated
+Target 	Endothelin-converting enzyme (ECE) 	Target Info 	Clinical Trial
+	SM-19712 	Drug Info 	Terminated
+Target 	Adenosine receptor (ADOR) 	Target Info 	Successful
+	M-216765 	Drug Info 	Terminated
+Target 	Sodium/hydrogen exchanger (SLC) 	Target Info 	Research
+	FR-183998 	Drug Info 	Terminated
+Target 	Cathepsin D (CTSD) 	Target Info 	Clinical Trial
+	CI-992 	Drug Info 	Terminated
+Target 	Calcitonin receptor (CALCR) 	Target Info 	Successful
+	TJN-220 	Drug Info 	Terminated
+Target 	Sphingosine-1-phosphate receptor 2 (S1PR2) 	Target Info 	Research
+	Edg5 antagonists 	Drug Info 	Investigative
+Target 	B-type natriuretic peptide (BNP) 	Target Info 	Research
+	BD-NP 	Drug Info 	Investigative

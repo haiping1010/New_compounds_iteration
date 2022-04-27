@@ -1,0 +1,7 @@
+source  /home/zhanghaiping/program/amber16/dat/leap/cmd/oldff/leaprc.ff99SB
+set default PBRadii mbondi2
+com = loadpdb  CHEMID_4_874_poc_ter.pdb
+savepdb com   CHEMID_4_874_poc_ter_out.pdb
+
+quit
+

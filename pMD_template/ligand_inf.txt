@@ -1,0 +1,10 @@
+2R4B.pdb A GW7
+3G0E.pdb A B49
+3LQ8.pdb A 88Z
+3LZB.pdb A ITI
+3PP0.pdb A 03Q
+4AT5.pdb A MUJ
+4AUA.pdb A 4AU
+4IEH.pdb A 1E9
+5EW8.pdb A 5SF
+5FTO.pdb A YMX
